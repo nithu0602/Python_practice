@@ -8,7 +8,7 @@ Created on Thu Jan  6 17:38:10 2022
 import sounddevice as sd
 import numpy as np
 duration=1.0
-fs=1999
+fs=10000
 sa=261 
 re=294
 ga=330  
